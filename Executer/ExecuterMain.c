@@ -47,6 +47,6 @@ int main() {
 	else
 		printf("실행할 프로그램이 없습니다.\n");
 	printf("\n프로그램 목록 추가, 수정, 삭제는 관리용 프로그램에서 하실 수 있습니다.\n\n");
-	//system("pause");
+	system("pause");
 	return 0;
 }
